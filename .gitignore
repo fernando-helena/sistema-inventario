@@ -1,0 +1,18 @@
+# Laravel
+/inventario-api/.env
+/inventario-api/vendor/
+/inventario-api/node_modules/
+
+# Vue
+/inventario-web/node_modules/
+/inventario-web/dist/
+
+# Archivos sensibles
+.env
+.env.*
+!.env.example
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.log
